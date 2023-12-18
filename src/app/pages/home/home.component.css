@@ -1,0 +1,23 @@
+.container{
+    
+    border-color:black;
+    border-width: 5px;
+    border-style: solid;
+    background-color: rgb(70, 77, 84);
+
+}
+
+
+div {
+    width: 700px;
+    padding: 50px;
+    margin: 350px;
+
+    
+  }
+    
+input[type=checkbox]:checked + label.strikethrough{
+    text-decoration-line:line-through ;
+    text-decoration-color:rgb(145, 54, 1) ;
+}
+  
